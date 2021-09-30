@@ -1,0 +1,5 @@
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/21d5c837-b2ec-48f4-9833-496f54ad5934.png
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/22a2579e-422f-4e9d-b441-7fcdeb092c57.png
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/c7fbdd0f-18fe-4952-a179-f84aa796f785.png
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/d2623a81-f9d4-4b1f-87db-7022d4120b0a.png
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/dd0c1bd9-e3b6-457f-a04e-8c9240c20bdd.png

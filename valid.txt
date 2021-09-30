@@ -1,0 +1,3 @@
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/4637.png
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/4668.png
+/scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj/4675.png
