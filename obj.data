@@ -1,5 +1,5 @@
 classes= 1
-train  = /scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/train.txt
-valid  = /scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/valid.txt
-names = /scratch/safs/uqcjame9/darknet/datasets/yolotinyv3_tokyo_wheat/obj.names
-backup = /scratch/safs/uqcjame9/darknet/backup/
+train  = /content/darknet/darknet_yolo_wheat_data/train.txt
+valid  = /content/darknet/darknet_yolo_wheat_data/valid.txt
+names = /content/darknet/darknet_yolo_wheat_data/obj.names
+backup = /content/darknet/backup/
